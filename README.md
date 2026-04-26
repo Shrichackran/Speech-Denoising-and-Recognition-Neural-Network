@@ -125,13 +125,13 @@ Select or record audio files using the provided GUI to analyze and view predicti
 ![1](https://github.com/user-attachments/assets/eba3be2c-c19f-4770-9b5c-a7a691a655dc)
 
 
-![2](https://github.com/user-attachments/assets/1f53349d-e08a-451a-94f7-4cb575ab8670)
+![2](file_0000000065b071fa971b2086e13a344e.png)
 
 
-![3](https://github.com/user-attachments/assets/51935e6f-6011-4ff1-80ff-40faf3451610)
+![3](file_00000000a6d471faa0cbef033abdbc26.png)
 
 
-![4](https://github.com/user-attachments/assets/107faec6-e44f-4dd8-a99d-eeabf601ac4a)
+![4](file_00000000709c71faaf5fbb60f82a9a64.png)
 
 
 
