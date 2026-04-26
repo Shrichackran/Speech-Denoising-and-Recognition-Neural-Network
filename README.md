@@ -144,7 +144,7 @@ Select or record audio files using the provided GUI to analyze and view predicti
 
 ## ✨ Acknowledgements
 
-Special thanks to my mentor Ghousia Bhegum who guided me and my friends, who contributed their voices to enhance the dataset for this project. Their diverse linguistic backgrounds and vocal characteristics were instrumental in developing a robust multilingual speech recognition model.
+Special thanks to my mentor Ghousia Bhegum who guided me and my friends who contributed their voices to enhance the dataset for this project. Their diverse linguistic backgrounds and vocal characteristics were instrumental in developing a robust multilingual speech recognition model.
 
 ## ✨ Disclaimer
 
